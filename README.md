@@ -2,6 +2,8 @@
 
 A Python script that converts markdown meeting notes into properly formatted Google Documents while preserving hierarchical structure and special formatting elements.
 
+Github Repo: https://github.com/iambyt3z/md_to_gdocs
+
 ## Features
 
 - **Automatic Document Creation**: Generates Google Docs with single command
