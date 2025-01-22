@@ -20,20 +20,15 @@ A Python script that converts markdown meeting notes into properly formatted Goo
 
 ### 1. Prerequisites
 - Google Colab account
-- Google Cloud Project with:
-  - Docs API enabled
-  - OAuth consent screen configured
-  - Desktop app credentials downloaded as `client_secret.json`
 
-### 2. Installation
-```bash
-# Clone repository
-git clone git@github.com:iambyt3z/md_to_gdocs.git
-cd markdown-to-google-docs
+### 2. Usage
 
-# Install dependencies
-pip install -r requirements.txt
-```
+  - Step 1: Open a Google Colab project.
+  - Step 2: Downlaod `md_to_gdocs.ipynb` from git repository.
+  - Step 3: Open `md_to_gdocs.ipynb` in your colab project.
+  - Step 4: Add your markdown text in `markdown_text` variable in the `cell 3`.
+  - Step 5: Run the all of the cells.
+  - Step 6: Complete authentication pop-up by google.
+  - Step 7: After the complete script is run, the link to the file will be returned below, which can used to visit the google doc document.
 
-### 3. Usage
 
