@@ -28,7 +28,7 @@ A Python script that converts markdown meeting notes into properly formatted Goo
 ### 2. Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/markdown-to-google-docs.git
+git clone git@github.com:iambyt3z/md_to_gdocs.git
 cd markdown-to-google-docs
 
 # Install dependencies
